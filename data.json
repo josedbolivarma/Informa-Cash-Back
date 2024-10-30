@@ -1,0 +1,62 @@
+{
+  "amounts": [
+    {
+      "id": 3,
+      "amount": 100000,
+      "category": "Entretenimiento",
+      "date": "2024-10-14",
+      "description": "Boleto de concierto"
+    },
+    {
+      "id": 5,
+      "amount": 30000,
+      "category": "Salud",
+      "date": "2024-10-30",
+      "description": "Examén clínico general"
+    },
+    {
+      "id": 6,
+      "amount": 800000,
+      "category": "Servicios",
+      "date": "2024-10-30",
+      "description": "Arriendo"
+    },
+    {
+      "amount": 25000,
+      "category": "Transporte",
+      "date": "2024-10-14",
+      "description": "Pasaje del metro",
+      "id": 7
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Comida"
+    },
+    {
+      "id": 2,
+      "name": "Transporte"
+    },
+    {
+      "id": 3,
+      "name": "Servicios"
+    },
+    {
+      "id": 4,
+      "name": "Salud"
+    },
+    {
+      "id": 5,
+      "name": "Música"
+    },
+    {
+      "name": "Gymnasio",
+      "id": 6
+    },
+    {
+      "id": 7,
+      "name": "Entretenimiento"
+    }
+  ]
+}
